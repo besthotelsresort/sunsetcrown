@@ -1,0 +1,4 @@
+Contact: mailto:security@sunsetcrown.example
+Expires: 2027-07-27T12:56:34.090Z
+Preferred-Languages: en, de, fr
+Canonical: https://sunsetcrown.onrender.com/.well-known/security.txt
